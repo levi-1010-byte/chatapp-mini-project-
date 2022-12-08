@@ -9,4 +9,4 @@ Quick Start:
 :create a firebase config file on /src
 :npm install
 :npm start
-[running project](https://chatroom-67e21.web.app/)
+[running project link ](https://chatroom-67e21.web.app/)
